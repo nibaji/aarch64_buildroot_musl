@@ -1,5 +1,7 @@
 This is a custom built buildroot toolchain based o gcc8.2 for sdm660 with optimisations for the chipset.
 
+Everything on customisations can be found on defconfig.
+
 All the licenses can be found here: http://toolchains.bootlin.com/downloads/releases/licenses/
 All the sources can be found here: http://toolchains.bootlin.com/downloads/releases/sources/
 
