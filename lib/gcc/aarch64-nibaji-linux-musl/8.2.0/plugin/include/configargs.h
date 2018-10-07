@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "./configure --prefix=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host --sysconfdir=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host/etc --enable-static --target=aarch64-nibaji-linux-musl --with-sysroot=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host/aarch64-nibaji-linux-musl/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --with-gmp=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host --with-mpc=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host --with-mpfr=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host --with-pkgversion='Buildroot 2018.08-git-04520-g0184fa310e' --with-bugurl=http://bugs.buildroot.net/ --disable-libmpx --disable-libquadmath --disable-libsanitizer --enable-tls --enable-plugins --enable-lto --disable-libmudflap --enable-threads --with-isl=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host --disable-decimal-float --with-abi=lp64 --with-cpu=cortex-a73.cortex-a53 --enable-languages=c,c++,fortran --with-build-time-tools=/run/media/nibaji/529BDE4958CF94A7/aarch64-nibaji-gcc-prebuilt/host/aarch64-nibaji-linux-musl/bin --enable-shared --enable-libgomp march=armv8-a+crc mcpu=kryo mtune=a73.a53";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "abi", "lp64" }, { "cpu", "cortex-a73.cortex-a53" } };
