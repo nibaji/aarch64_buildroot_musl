@@ -6,7 +6,7 @@ All the licenses can be found here: http://toolchains.bootlin.com/downloads/rele
 All the sources can be found here: http://toolchains.bootlin.com/downloads/releases/sources/
 
 PACKAGE        VERSION                     LICENSE
-buildroot      2018.08-git-00807-g0184fa3  GPL-2.0+
+buildroot      2018.08-git-04520-g0184fa3  GPL-2.0+
 gcc-final      8.2.0                       unknown
 binutils       2.31.1                      GPL-3.0+, libiberty LGPL-2.1+
 lzip           1.20                        GPL-2.0+
